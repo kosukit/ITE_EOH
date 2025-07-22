@@ -8,12 +8,8 @@ The goal is to build accurate and interpretable models to predict future transit
 
 - Data collection and preprocessing
 - Exploratory data analysis and visualization
-- Implementation of multiple forecasting models:
-  - Prophet (Facebook)
-  - SARIMA (`statsmodels`)
-  - Exponential Smoothing (Holt-Winters)
-  - TensorFlow-based deep learning models (e.g., LSTM)
-- Model comparison and evaluation
+- Implementation of forecasting models
+
 
 ## Tools & Libraries
 
